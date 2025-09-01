@@ -1,7 +1,7 @@
 # SampleSuperstore-Data-Analysis
 This is my first data analytics project that I've decided to conduct on my own, using the "SampleSuperstore" dataset I retrieved from Kaggle. Here I used Google Sheets to do my data cleaning, and MySQL Workbench to do my data wrangling, then I finally proceeded to use Power BI for dashboard creation. This project was definitely very fun to work on, especially with this being my first time using a dataset this large. It may not be perfect but I hope you'll be able to learn and understand the insights gained from this project. 
 
-The completed dashboard can be found in the documents listed as 'Completed SuperstoreData Dashboard.pbix'. The CSV files listed are those of the exported results from my SQL Script, which is also listed. 
+The completed dashboard can be found in the documents listed as 'Completed SuperstoreData Dashboard.pbix'. The CSV files listed are those of the exported results, most of which is used for my dashboard from my SQL Script, which is also listed. 
 
 For the first dashboard created, I provided sales performance analysis, which can be seen for any preferred State, Category, Segment or ShipMode. The Total Sales for each State across all Categories are presented on the map provided. Also I went along to calculate the Total Profit and Profit Margin across all sales from Superstore.
 
