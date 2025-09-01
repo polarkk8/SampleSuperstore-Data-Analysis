@@ -7,7 +7,7 @@ The information I decided to pull from the dataset and work with was purely my d
 
 The completed dashboard can be found in the documents listed as 'Completed SuperstoreData Dashboard.pbix'. The CSV files listed are those of the exported results, most of which is used for my dashboard from my SQL Script, which is also listed as 'superstore_sales_datawrangling.sql'.
 
-For the first dashboard created, I provided sales performance analysis, which can be seen for any preferred State, Category, Segment or ShipMode. The Total Sales for each State across all Categories are presented on the map provided. Also I went along to calculate the Total Profit and Profit Margin across all sales from Superstore.
+For the first dashboard created, I provided sales performance analysis, which can be seen for any preferred State, Category, Segment or ShipMode. The Total Sales for each State across all Categories are presented on the map provided. Also I went along to calculate the Total Profit and Profit Margin across all sales from Superstore. The Total Profit earned is shown to be $286.24K from Total Sales of $2.29M, while their profit margin is 12.47%, as can be seen displayed on all three (3) dashboards, as these are vital pieces of inoformation.
 
 The second dashboard showcases Sales performance by State and City, which I put together in bar charts. I was able to show each of the Top 20 States and Top 20 Cities,respectively, bringing in the Most Sales for Superstore.
 
