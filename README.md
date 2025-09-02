@@ -3,7 +3,7 @@ This is a data analytics project that I've decided to conduct on my own, using t
 
 The raw 'SampleSuperstore' dataset from Kaggle and my cleaned version are also listed as CSV files.
 
-The information I decided to pull from the dataset and work with was purely my decision and my own work, while pretending I was working with Stakeholders from Superstore. I decided to analyze sales performance to identify key insights such as profitabiliy issues and opportunities for example by State and Category, and presenting the findings in an interactive dashboard.
+The information I decided to pull from the dataset and work with was purely my decision and my own work, while pretending I was working with Stakeholders from Superstore. I decided to analyze sales performance to identify key insights such as profitability issues and opportunities for example by State and Category, and presenting the findings in an interactive dashboard.
 
 The completed dashboard can be found in the documents listed as 'Completed SuperstoreData Dashboard.pbix'. The CSV files listed are those of the exported results, most of which is used for my dashboard from my SQL Script, which is also listed as 'superstore_sales_datawrangling.sql'.
 
