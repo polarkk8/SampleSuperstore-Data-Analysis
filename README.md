@@ -15,4 +15,4 @@ The third and final dashboard gives the stakeholders at Superstore a further dou
 
 Values on the dashboards can be seen by selecting or hovering over any specific feature on the vizualizations.
 
-xoxo, polark.
+xoxo, Kaitlin.
